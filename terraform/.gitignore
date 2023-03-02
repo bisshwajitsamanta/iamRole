@@ -1,0 +1,7 @@
+.idea/
+.vscode/
+.vs/
+/*/*tfstate*
+/*/*tfvars*
+/*/.terraform/*
+/*/.terraform.lock.hcl
